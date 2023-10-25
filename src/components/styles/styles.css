@@ -1,0 +1,13 @@
+.day{
+    border: #282c34 solid 1px;
+    
+  }
+  .day.active {
+    background-color: lightblue; 
+    cursor: pointer;
+  }
+  
+.week{
+    border: #282c34 solid;
+
+  }
